@@ -1,0 +1,39 @@
+  @import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200&display=swap');
+
+.robo{
+    color: yellowgreen;
+    font-size: 30px;
+    
+}
+
+body{
+    text-align: center;
+    background-image: linear-gradient(to right, #0000FF,#008000);
+    background-size: cover;
+    background-attachment: scroll;
+}
+#data{
+    text-align: left;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.titulos{
+    font-size: 45px;
+    color: white;
+    
+}
+div{
+    background-color: darkcyan;
+}
+#botão{
+    font-size: 20px;
+    background-color: yellowgreen;
+}
+.letra{
+    font-size: 35px;
+}
+#letra{
+    background-color: skyblue;
+    font-size: 45px;    
+    background-image: linear-gradient(to right, );
+    font-family: 'Oswald', sans-serif;
+}
